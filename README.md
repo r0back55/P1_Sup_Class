@@ -1,2 +1,3 @@
-# P1_SupervisedLearning_Classification
-P1_SupervisedLearning_Classification
+# Project_1 Supervised Learning Classification
+
+Heart disease classification
